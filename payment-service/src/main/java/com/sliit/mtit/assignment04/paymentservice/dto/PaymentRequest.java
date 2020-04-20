@@ -5,6 +5,7 @@ public class PaymentRequest {
     private String customerName;
     private String price;
 
+
     public String getCustomerName() {
         return customerName;
     }
